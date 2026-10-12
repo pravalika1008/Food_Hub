@@ -1,0 +1,15 @@
+#Java/Spring Boot
+target/
+*.class
+#React / Node.js
+node_modules/
+dist/
+#Environment secrets
+.env
+.env.*
+!.env.example
+#IDE settings
+.idea/
+.vscode/
+#Logs
+*.log
